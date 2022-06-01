@@ -4,7 +4,7 @@
  *@author : BhanuSurendra Deepala 
  *
  */
-package com.codechallenges;
+package codechallenges;
 
 public class Factorical {
 

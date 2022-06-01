@@ -4,7 +4,7 @@
  *@author : BhanuSurendra Deepala 
  *
  */
-package com.codechallenges;
+package codechallenges;
 
 import java.util.Arrays;
 import java.util.HashMap;

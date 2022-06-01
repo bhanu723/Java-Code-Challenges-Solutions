@@ -1,4 +1,4 @@
-package com.codechallenges;
+package codechallenges;
 
 public class BinarySearch {
 

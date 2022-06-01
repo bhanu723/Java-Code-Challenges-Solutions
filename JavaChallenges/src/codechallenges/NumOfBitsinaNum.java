@@ -1,4 +1,4 @@
-package com.codechallenges;
+package codechallenges;
 
 /*
  * @Author: BhanuSurendra Deepala

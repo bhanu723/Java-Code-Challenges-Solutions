@@ -1,8 +1,9 @@
-package com.codechallenges;
+package codechallenges;
 
-import com.codechallenges.*;
 import java.io.*;
-import java.util.*; 
+import java.util.*;
+
+import codechallenges.*; 
 
 /*
 @Author : BhanuSurendra Deepala

@@ -8,7 +8,7 @@
  * Test 54748. 5^5 + 4^5 + 7^5 + 4^5 + 8^5 = 3125 + 1024 + 16807 + 1024 + 32768 = 54748
  * 
  */
-package com.codechallenges;
+package codechallenges;
 
 public class Armstrong {
 

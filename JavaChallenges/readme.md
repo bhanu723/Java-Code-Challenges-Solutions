@@ -1,5 +1,5 @@
-# Java Code Challenges 
-## Solutions are provided for several most frequently asked Java Coding questions
+# GeekforGeeks, LeetCode & other Java Interview Code Challenges 
+
 
 @Author : BhanuSurendra Deepala
 
