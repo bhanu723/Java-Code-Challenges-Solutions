@@ -4,7 +4,7 @@
  *@author : BhanuSurendra Deepala 
  *
  */
-package codechallenges;
+package interviewcodechallenges;
 
 import java.util.stream.Stream;
 

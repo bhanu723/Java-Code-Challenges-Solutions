@@ -1,9 +1,9 @@
-package codechallenges;
+package interviewcodechallenges;
 
 import java.io.*;
 import java.util.*;
 
-import codechallenges.*; 
+import interviewcodechallenges.*; 
 
 /*
 @Author : BhanuSurendra Deepala

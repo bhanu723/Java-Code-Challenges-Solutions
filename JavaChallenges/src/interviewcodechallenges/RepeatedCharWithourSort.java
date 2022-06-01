@@ -1,7 +1,7 @@
 /*
  * @Author : BhanuSurendra Deepala
  */
-package codechallenges;
+package interviewcodechallenges;
 
 import java.util.TreeMap;
 

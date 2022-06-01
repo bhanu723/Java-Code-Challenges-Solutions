@@ -4,7 +4,7 @@
  *
  */
 
-package codechallenges;
+package interviewcodechallenges;
 
 import java.util.Comparator;
 import java.util.HashMap;

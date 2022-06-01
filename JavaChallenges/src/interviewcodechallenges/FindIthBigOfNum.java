@@ -1,4 +1,4 @@
-package codechallenges;
+package interviewcodechallenges;
 
 public class FindIthBigOfNum {
 

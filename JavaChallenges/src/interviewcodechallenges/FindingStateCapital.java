@@ -1,4 +1,4 @@
-package codechallenges;
+package interviewcodechallenges;
 
 import java.util.Map;
 import java.util.stream.Collectors;

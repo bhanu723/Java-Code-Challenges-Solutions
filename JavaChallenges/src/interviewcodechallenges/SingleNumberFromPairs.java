@@ -1,4 +1,4 @@
-package codechallenges;
+package interviewcodechallenges;
 
 import java.util.Arrays;
 
