@@ -35,7 +35,7 @@ public class Fibanacci {
 			result = f1 + f2;
 			f1 = f2;
 			f2 = result;
-			System.out.println(result);
+			System.out.print(result+" ");
 			n--;
 		}
 		return result;
