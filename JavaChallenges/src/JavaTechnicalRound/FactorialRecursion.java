@@ -1,6 +1,10 @@
 package JavaTechnicalRound;
 
 public class FactorialRecursion {
+	
+	FactorialRecursion(){
+		super();
+	}
 
 	public static void main(String[] args) {
 
