@@ -29,7 +29,7 @@ public class Factorical {
 	private static int findFactorialRecursive(int n) {
 
 		if (n <= 1)
-			return 1;
+			return n;
 		else
 			return n * findFactorialRecursive(n - 1);
 

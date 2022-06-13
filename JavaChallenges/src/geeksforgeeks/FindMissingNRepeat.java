@@ -6,6 +6,9 @@ import java.util.HashSet;
 import java.util.Set;
 import java.util.stream.IntStream;
 
+/*
+ * Given an array of size N-1 such that it only contains distinct integers in the range of 1 to N. Find the missing element.
+ */
 public class FindMissingNRepeat {
 
 	public static void main(String[] args) {
@@ -21,6 +24,12 @@ public class FindMissingNRepeat {
 
 	private static int[] findTwoElement(int arr[], int n) {
 		// code here
+
+		/*
+		 * int sum = (n * (n + 1)) / 2; 
+		 * return sum-Arrays.stream(array).reduce(0, (a, b)-> a + b);
+		 * 
+		 */
 
 		int[] result = new int[2];
 		Arrays.sort(arr);

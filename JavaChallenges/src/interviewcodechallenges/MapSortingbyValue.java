@@ -24,18 +24,15 @@ public class MapSortingbyValue {
 		map.put("Surendra",0);
 		map.put("Surekha",12);
 		map.put("Srikshi",1);
-		System.out.println(map);
-		System.out.println(sortMapbyValues(map));
+//		System.out.println(map);
+		sortMapbyValues(map);
 		
 	}
 
-	private static Map<String,Integer> sortMapbyValues(Map<String, Integer> map) {
-		Map<String,Integer> outputMap=Map.of();
-		Set<Entry<String, Integer>> s= map.entrySet();
-		System.out.println(s);
-		Iterator<Entry<String, Integer>> it = s.iterator();
+	private static void sortMapbyValues(Map<String, Integer> map) {
 		
-		return outputMap;
+		map.entrySet().stream().sorted((o1,o2)->o1.getValue()-o2.getValue()).collect(Collectors.toMap(null, null));
+		
 	}
 
 }
